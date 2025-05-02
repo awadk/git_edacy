@@ -23,5 +23,7 @@ spring.datasource.url=jdbc:mysql://localhost:3306/nom_de_ta_base
 spring.datasource.username=root
 spring.datasource.password=
 
+Démonstration de l'application: (tuto.gif)
+
  Licence
 Ce projet est à but pédagogique et peut être librement utilisé à des fins d'apprentissage.
